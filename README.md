@@ -3,6 +3,10 @@
 2) To run the keeper app in your browser,  you can  download the files and place them in one folder then follow these these steps:
     1) write npm i
     2) After installing all the dependecies write npm start
+
+<div align="center">
+    <img src="App Preview.png" alt="AppPreview" >
+</div>
    
 ### Built With
 
